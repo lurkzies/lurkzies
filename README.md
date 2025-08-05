@@ -32,6 +32,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" />
     </a>
     <a href="https://redhat.com" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" height="40" width="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original.svg" alt="redhat" height="40" width="40" />
+    </a>
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40" />
     </a>
 </p>
