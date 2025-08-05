@@ -21,4 +21,7 @@
     <a href="https://www.proxmox.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/proxmox/proxmox-original.svg" alt="proxmox" width="40" height="40" />
     </a>
+    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
+    </a>
 </p>
