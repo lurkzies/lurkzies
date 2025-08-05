@@ -31,4 +31,7 @@
     <a href="https://archlinux.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" />
     </a>
+    <a href="https://redhat.com" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" alt="redhat" height="40" width="40" />
+    </a>
 </p>
