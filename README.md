@@ -37,4 +37,7 @@
     <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" height="40" width="40" />
     </a>
+    <a href="https://debian.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" alt="debian" height="40" width="40" />
+    </a>
 </p>
