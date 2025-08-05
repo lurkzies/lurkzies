@@ -28,4 +28,7 @@
     <a href="https://neovim.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40" />
     </a>
+    <a href="https://archlinux.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" />
+    </a>
 </p>
