@@ -43,4 +43,7 @@
     <a href="https://putty.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" alt="putty" height="40" width="40" />
     </a>
+    <a href="https://podman.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/podman/podman-original.svg" alt="podman" height="40" width="40" />
+    </a>
 </p>
