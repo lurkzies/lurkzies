@@ -7,6 +7,9 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <!-- OS / Platforms -->
+    <a href="https://kali.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" height="40" width="40"/>
+    </a>
     <a href="https://archlinux.org" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" />
     </a>
