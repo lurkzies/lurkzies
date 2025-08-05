@@ -46,4 +46,7 @@
     <a href="https://podman.io" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/podman/podman-original.svg" alt="podman" height="40" width="40" />
     </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
+    </a>
 </p>
