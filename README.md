@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h3>
 
-<h3 align="center" style="font-style: italic;">A passionate Computer Systems Technician</h3>
+<h3 align="center"><em>A passionate Computer Systems Technician</em></h3>
 
 - 🌱 I’m currently learning **Linux** and **Windows**, **Cloud Computing**, **Networking**, **Python**, and **PC Systems** in general!
 - ✨ Here's a project I'm proud of: [My Neovim Configuration](https://github.com/lurkzies/neovim)
