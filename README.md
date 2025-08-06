@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm lurkzies</h1>
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h3>
 
-> *A passionate Computer Systems Technician*
+<h3 align="center">*A passionate Computer Systems Technician*</h3>
 
 - 🌱 I’m currently learning **Linux** and **Windows**, **Cloud Computing**, **Networking**, **Python**, and **PC Systems** in general!
 - ✨ Here's a project I'm proud of: [My Neovim Configuration](https://github.com/lurkzies/neovim)
@@ -10,7 +10,7 @@
 - 🤝 I would be more than happy to contribute and collaborate on any **Open-Source Project**!
 - 📫 How to reach me: **lrkzies@proton.me** or via [Signal](https://signal.me/#eu/IfFFNZGPoVlJx4f-P79CCFbUQbMZr2jNhyd7FtCuOlVgN1yyogtJ-YtnpGklS11q)
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h3>
 <p align="center">
     <!-- OS / Platforms -->
     <a href="https://kali.org" target="_blank" rel="noreferrer">
