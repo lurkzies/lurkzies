@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm lurkzies</h1>
-
-<div style="margin: 0;">
-    <h2 align="center">About Me</h3>
-    <h3 align="center"><em>A passionate Computer Systems Technician</em></h3>
-</div>
+<h2 align="center">About Me</h3>
+<h3 align="center"><em>A passionate Computer Systems Technician</em></h3>
 
 - 🌱 I’m currently learning **Linux** and **Windows**, **Cloud Computing**, **Networking**, **Python**, and **PC Systems** in general!
 - ✨ Here's a project I'm proud of: [My Neovim Configuration](https://github.com/lurkzies/neovim)
