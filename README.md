@@ -32,11 +32,14 @@
     <a href="https://neovim.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40" />
     </a>
+    <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-plain.svg" alt="tmux" width="40" height="40" />
+    </a>
     <a href="https://putty.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40" />
     </a>
-    <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-plain.svg" alt="tmux" width="40" height="40" />
+    <a href="https://www.cisco.com/site/us/en/products/networking/software/ios-nx-os/index.html#tabs-a107e9a621-item-b27a5c1e52-tab" target="_blank" rel="noreferrer>
+        <img src="https://www.svgrepo.com/show/331335/cisco.svg" alt="cisco ios" width="40" height="40" />
     </a>
     <!-- Languages / Databases -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
