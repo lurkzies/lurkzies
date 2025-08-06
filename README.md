@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40" />
     </a>
     <a href="https://www.proxmox.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/proxmox/proxmox-original.svg" alt="proxmox" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/proxmox/proxmox-plain.svg" alt="proxmox" width="40" height="40" />
     </a>
     <!-- Terminal / Shell -->
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
