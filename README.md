@@ -8,10 +8,10 @@
 <p align="center">
     <!-- OS / Platforms -->
     <a href="https://kali.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kalilinux/kalilinux-original.svg" alt="kalilinux" height="40" width="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kalilinux/kalilinux-original.svg" alt="kali linux" height="40" width="40"/>
     </a>
     <a href="https://archlinux.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="arch linux" width="40" height="40" />
     </a>
     <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40" />
@@ -20,14 +20,14 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40" />
     </a>
     <a href="https://redhat.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redhat/redhat-original.svg" alt="red hat" width="40" height="40" />
     </a>
     <a href="https://www.proxmox.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/proxmox/proxmox-plain.svg" alt="proxmox" width="40" height="40" />
     </a>
     <!-- Terminal / Shell -->
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="bash or shell scripting" width="40" height="40" />
     </a>
     <a href="https://neovim.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40" />
