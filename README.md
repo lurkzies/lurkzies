@@ -36,7 +36,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/putty/putty-original.svg" alt="putty" width="40" height="40" />
     </a>
     <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer">
-        <img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-plain.svg" alt="tmux" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tmux/tmux-plain.svg" alt="tmux" width="40" height="40" />
     </a>
     <!-- Languages / Databases -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
